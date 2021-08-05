@@ -1,0 +1,24 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 39 46" width="39" height="46">
+	<title>про окна</title>
+	<defs>
+		<image  width="39" height="46" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAuAQMAAACRYpK+AAAAAXNSR0IB2cksfwAAAAZQTFRFAFSWAFSWN2TAnQAAAAJ0Uk5T/wDltzBKAAAAFUlEQVR4nGNgQAL2/////zFCSSQAAPMysIloXancAAAAAElFTkSuQmCC"/>
+		<image  width="31" height="38" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAmAQMAAAAGFdIfAAAAAXNSR0IB2cksfwAAAAZQTFRFAFSWAFSWN2TAnQAAAAJ0Uk5T/wDltzBKAAAAE0lEQVR4nGNggAP7//9/DA0CDgBU8W0L/VogDwAAAABJRU5ErkJggg=="/>
+		<image  width="2" height="36" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAAkAQMAAACZjXlMAAAAAXNSR0IB2cksfwAAAAZQTFRFAFSXAFSWj9in+AAAAAJ0Uk5T6P/NNltRAAAAD0lEQVR4nGNgYDhABcgAAJZ1GYEquj2uAAAAAElFTkSuQmCC"/>
+		<image  width="16" height="2" id="img4" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAACAQMAAABrI86yAAAAAXNSR0IB2cksfwAAAAZQTFRFAFSWAFSU2WqhsQAAAAJ0Uk5T/1iAB+mMAAAADklEQVR4nGNgYGRgYAQAAAsAA1IpeI8AAAAASUVORK5CYII="/>
+		<image  width="5" height="5" id="img5" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAMAAAC6sdbXAAAAAXNSR0IB2cksfwAAADNQTFRFAE6TAFOUAFOUAFSWAFOWAFSWAFSWAFOWAE6TAFSWAECVAFOTAFSWAECVAFOTAFOWAECA3XC+IgAAABF0Uk5TAAArz3Xr/6UaxQw0/QAAIgSJfHuDAAAAJUlEQVR4nAXBAQIAEAgAsROVIvz/tTZo0geImjPVIlk7sjj3VX0HrADDWTtTkAAAAABJRU5ErkJggg=="/>
+		<image  width="9" height="9" id="img6" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAJBAMAAAASvxsjAAAAAXNSR0IB2cksfwAAAC1QTFRFAFCPAE2RAE2RAFSWAFSVAFOWAFSWAFOWAFSWAE2MAE2MAFCPAFSVAFSVAFKT6h4p4AAAAA90Uk5TAAAeyYzf/77UFAAQOgA78ryJOwAAADpJREFUeJxjYBQUVHZgYBQUCisAkqoZExgYhcI6FzAwqmbMWsDAFNa5agHD1oxZQPJY5yogeW8XkAQAUUAR9aayuaAAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="про окна">
+		<g id="Group">
+			<use id="305" href="#img1" x="0" y="0" />
+			<use id="306" href="#img2" x="4" y="4" />
+			<use id="307" href="#img3" x="18" y="5" />
+			<use id="308" href="#img4" x="19" y="21" />
+			<use id="309" href="#img5" x="6" y="7" />
+			<use id="310" href="#img6" x="6" y="7" />
+		</g>
+	</g>
+</svg>

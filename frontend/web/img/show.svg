@@ -1,0 +1,34 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 42" width="44" height="42">
+	<title>выберите</title>
+	<defs>
+		<image  width="28" height="31" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAfCAMAAADDR10IAAAAAXNSR0IB2cksfwAAAEtQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////slWHAAAAABl0Uk5Txf+7AALb8JoGKftXPOSHCNdZQd8Keeb501qUwLUAAABQSURBVHicY2BgZGLGBRgY8UvilBuVHJUcxJIsuCVZGVEBGzsHSJyTgYuLm4GHF02WkQ9oFL8AIyOXIAO6UUJQJcIiQGMxLBIVA0qJS/AAmQAOAQpk4Raw6wAAAABJRU5ErkJggg=="/>
+		<image  width="4" height="22" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAWBAMAAAAVwSDdAAAAAXNSR0IB2cksfwAAABhQTFRF////////////////////////////////KSvAyAAAAAh0Uk5TIu//wwD7XlxMWSmHAAAAFklEQVR4nGNgVGZgVGJwIQ+FMrikAwADHwi4RGuBUwAAAABJRU5ErkJggg=="/>
+		<image  width="34" height="31" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAfCAMAAAC1fe+DAAAAAXNSR0IB2cksfwAAAJxQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////RWkLIgAAADR0Uk5Tdfn//cU2AGPi6Evv+34CCqTlibjH81lF6+EnHs0WpvfefQQfqO7mFIzJR0Lg3LAd1J65i6mZpdsAAACUSURBVHic7dO3EsJAEAPQswwimTM5Gpt85Pj//wY09i3MHENDZZWaN7uVlPKQxi8U+UypnFWoVFUNdoK6DhuiQVMBTBO2fLQ76PayioAgZH8ADEd0EY6jaEI3+UhOcvILieOvhPwfSexZTWdzcrFcYW0ssgnE9rZm99qnIPZJvT/g6OF0lo/kX3MBrpouQnO7vwk+AF/mGvkIBe0hAAAAAElFTkSuQmCC"/>
+		<image  width="2" height="25" id="img4" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAAZBAMAAADpieJPAAAAAXNSR0IB2cksfwAAABVQTFRF////////////////////////////Z0iB0QAAAAd0Uk5TEOXj//PxMFm+aoAAAAATSURBVHicY2BgEGIwJhq6MqQBAG1MBO0WaboiAAAAAElFTkSuQmCC"/>
+		<image  width="10" height="2" id="img5" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAACBAMAAACTT1DjAAAAAXNSR0IB2cksfwAAAA9QTFRF////////////////////kXdTFQAAAAV0Uk5TnP/vKJ7gzE0lAAAAEUlEQVR4nGNgFBQUVGZwBJEABNgA73kX8OYAAAAASUVORK5CYII="/>
+		<image  width="10" height="2" id="img6" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAACBAMAAACTT1DjAAAAAXNSR0IB2cksfwAAAA9QTFRF////////////////////kXdTFQAAAAV0Uk5TnP/vKJ7gzE0lAAAAEUlEQVR4nGNgFBQUVGZwBJEABNgA73kX8OYAAAAASUVORK5CYII="/>
+		<image  width="10" height="2" id="img7" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAACBAMAAACTT1DjAAAAAXNSR0IB2cksfwAAAA9QTFRF////////////////////kXdTFQAAAAV0Uk5TnP/vKJ7gzE0lAAAAEUlEQVR4nGNgFBQUVGZwBJEABNgA73kX8OYAAAAASUVORK5CYII="/>
+		<image  width="10" height="2" id="img8" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAACBAMAAACTT1DjAAAAAXNSR0IB2cksfwAAAA9QTFRF////////////////////kXdTFQAAAAV0Uk5Tc/3/+UgL9PVvAAAAEElEQVR4nGNgVFJSMmEAkwAGhAE3UNC3OQAAAABJRU5ErkJggg=="/>
+		<image  width="10" height="2" id="img9" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAACBAMAAACTT1DjAAAAAXNSR0IB2cksfwAAAA9QTFRF////////////////////kXdTFQAAAAV0Uk5Tc/3/+UgL9PVvAAAAEElEQVR4nGNgVFJSMmEAkwAGhAE3UNC3OQAAAABJRU5ErkJggg=="/>
+		<image  width="16" height="23" id="img10" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAXCAMAAAA1KD/rAAAAAXNSR0IB2cksfwAAASNQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////MnNZ/wAAAGF0Uk5TCjMAkf+6HZvxagKE774hbJVT5/VyWqcQoscsRrtJ4vl8BDTNDpr9zzIg4UHe+4MI89YaItnpGI8702BzKi7BQEyUvK3bBhLtTnB0a3ZHFtVIhbOcQwsksaCLwpDqpmPRZet1tQ8AAADxSURBVHicVdDXVsJAEIDhdfxRBLvYQIVoiAUDUQF7xV6w9/r+T+FsEJC5md3vTDm7xrRJS5h2Ih0t0AnRrtg/iNMNPb1N6KN/YJChRL3IDDMio2MwnvyDFBOaJqdIZ5wQppmx2c16zM5ZmGehVptbxM8XxLgE9XE6aWnZiE/BXleyRTRSRkqULaxCEMmsiZF1krKxKVu+tx02yg67CdiTfQ5qUKGivYdHxyechqCv46zIuVyoWojDpVwRrTrXelC48W+18o57eSCoKsijnfWU1iXPvFioxStvhXe8cgPcEh/w6TRAvuA7J80WieV/7K/9ApieGk0uqR97AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="выберите">
+		<g id="Group">
+			<g id="Group">
+				<use id="41" href="#img1" x="0" y="3" />
+				<use id="42" href="#img2" x="38" y="3" />
+				<use id="43" href="#img3" x="4" y="0" />
+				<use id="44" href="#img4" x="20" y="2" />
+				<use id="45" href="#img5" x="8" y="8" />
+				<use id="46" href="#img6" x="8" y="13" />
+				<use id="45" href="#img7" x="8" y="17" />
+				<use id="48" href="#img8" x="24" y="8" />
+				<use id="49" href="#img9" x="24" y="13" />
+				<use id="50" href="#img10" x="28" y="19" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 14" width="9" height="14">
+	<title>люди</title>
+	<defs>
+		<image  width="9" height="14" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAOCAMAAADKSsaaAAAAAXNSR0IB2cksfwAAADNQTFRF////////////////////////////////////////////////////////////////////5RDoRwAAABF0Uk5TAAwe33b/4Vf9pgJfntIQUxS6ZMrLAAAAMElEQVR4nGNgAANGBihgYmaBMVjZGGEMJgIMBnYOVk4uiEZuDlYe4pm8fFCL+QUYAE9ZAZDwgqv3AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="люди">
+		<use id="276" href="#img1" x="0" y="0" />
+	</g>
+</svg>

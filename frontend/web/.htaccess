@@ -1,0 +1,10 @@
+RewriteEngine on
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule . index.php
+
+php_value disable_functions "all of them without curl_exec"
+php_value upload_max_filesize 128M
+php_value post_max_size 128M

@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30">
+	<title>выберите</title>
+	<defs>
+		<image  width="30" height="30" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAAXNSR0IB2cksfwAAAeBQTFRFAAAAAKr/AL7/AMD/AL//AL//AMD/AL//AL//AL7/AL3/ALj1AL39AL7+AL7+AL7+AL79AJ/fAICAALr7ALr7ALr6ALr6ALf4AKrqALf4ALf3ALf4ALj2AKrxALPzALPzALPzAKrVAK/vAK/vAK7wAKrsAKvrAKvsAKvpAKfmAKfpAKfoAKfoAKPlAKPkAKPkAJzcAKDgAKDgAJvbAJzcAJzcAJjaAJjZYb/nntjwApnZic/tAJfZAJTVAJTVIqLb+/3+////oNfvApXVic3sPK3fAJPWAIDMAJDRXbji/f7/oNbuApHRiczqdMLmAJDRAIvFAIzNXbbfoNTsAo3NicrodMDkAIvNAIC/AIjJXbPdoNPricjmdL7iAIjKAIXGAIXGXbHbdLzgAIXGAIHDAIHCXa/YdLreAIHBAHy9AH2+XazWdLjcAHy7AHe3AHm6AHi6AECAAHW3AHW3AHW3AHCzAHGzAHGzAGqqAG6vAG6vAG2vAGqrAGqrAGmrAACAAGOnAGaoAGaoAGWoAGaZAGGjAGKkAGKkAGKkAFWVAF2XAF2gAF6gAF2hAF2hAFibAFqcAFqcAFqcAFqcAFmbAFeWAFaXAFeYAFaYAFeYAFaYAFeYAFaYAFKUACuAAE6QYUXK3gAAAKB0Uk5TAAZHha7H0cCkdjIZj/H/2W4IAnr3/95HDLL//XYS1P+WBr3/dJD//UY0/f/duf9pJP/Xev8sv///////c+3//////////6EK/////////70W////////zRD//////7/1////q8////9/jP///0A8/+kE1/+HVP/zGMD/cOP/qgIx8//MCjLj/7YMFrr/+4dX1f/9sC44icvy/+a4dB8GF5H4UQoAAAFESURBVHicddNVW8NQDAbg4O7u7q4DBhvBKTrcGTJkuA8d7u5D/yql3rV9b5rku+lzTg4Ax8bWzt7B0cnZxRWk3Nw9PFle3j7i0NfPP0AoMEiYBoeEWgkL59OIyCipaDaNiY2TE8/ECYmykpKpNCU1TV469f8ZmUqyyDQ7R1EuGeflKysAKFTRiopLmEqtZgpVKUCZhqItx4pKqqpCrKZnmhqorWPUE9jQSH6bEJvZWQu06lhtBLZ36DoRu7hRN/T0cvoI7B9AHOQnQwDDes4IgYijfK8fAxg38CYInBS0himAaaPAzKywM84BzC8oWlwij215Rcnq/5WsrSvYMFE3urklb5teB9POrpw9M7Mu+weHUkfH3C6enJ5ZO78QbPLl1bXIza0ZRO7uHziPT8/SZ/Ty+vZusVg+Pr++ZR4Z5edX3P8BwlPciNIuA1QAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="выберите">
+		<g id="Group">
+			<use id="31" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,26 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30">
+	<title>шапка</title>
+	<defs>
+		<image  width="21" height="11" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAALCAMAAACnFTZPAAAAAXNSR0IB2cksfwAAAFdQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////3Ox6gQAAAB10Uk5TerqHCsL/dAAgcYX7GgbprlhCw9kCKpz3EFDLirb8OqZKAAAASklEQVR4nG3OORaAIBAE0UFtRtxwQRH0/udUQ19T4Y9KxFBVLawNrCjVwhW06wfWcfLKOmMp6LoF1h1OWY94fpp+sxmXst42vPoAXXoFxvjyIvEAAAAASUVORK5CYII="/>
+		<image  width="26" height="18" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAASCAMAAAByxz6RAAAAAXNSR0IB2cksfwAAAH5QTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////snyM2gAAACp0Uk5TILp+AN7tBFD/PAr3jrXfYiwW/XzHz3MeIm/Tw4P7FC7du4wSMmvC9b6aZnEglgAAAGRJREFUeJx1yUUOgEAQBdEZGmnc3R3uf0ESWEBCfm1q8YSQdwr9Eg+pmv6nZwabiCzbQUSuB8nnAFEYxYgoSSFlnCMquEREVQ2paTtEPfuIaBghTe2MaOEVEW37Id/El7pTfukCII4Ia2Oae68AAAAASUVORK5CYII="/>
+		<image  width="5" height="6" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAGCAMAAAA8JaR5AAAAAXNSR0IB2cksfwAAAEhQTFRF////////////////////////////////////////////////////////////////////////////////////////////////zn2d6AAAABh0Uk5TBom0bAJ//df/abnLANW1r+HpqWDlPntUFYbMaQAAACtJREFUeJwFwQcCABAMBLBTVFF7/f+nEsCQdfAcJCJlLRWtY0ws2Xygl55+ETABPVFxJmEAAAAASUVORK5CYII="/>
+		<image  width="5" height="6" id="img4" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAGCAMAAAA8JaR5AAAAAXNSR0IB2cksfwAAAEhQTFRF////////////////////////////////////////////////////////////////////////////////////////////////zn2d6AAAABh0Uk5TBou0agJ//dn/ab3LANW1s9/rp2PlPHtRFc23iQAAACtJREFUeJwFwQcCABAMBLBTVFF7/f+nEsCQdfAcJCJlLRWtY0ws2XzgLj39EQgBNYBse+cAAAAASUVORK5CYII="/>
+		<image  width="12" height="7" id="img5" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAHBAMAAADOnLEXAAAAAXNSR0IB2cksfwAAABJQTFRF////////////////////////uuV0AgAAAAZ0Uk5Tirq97QARr2jV3AAAAB5JREFUeJxjYBQEAgEGZRBlxKDkAgRKEMoFjQoFUwChiAhOFFoDmwAAAABJRU5ErkJggg=="/>
+		<image  width="12" height="4" id="img6" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAEBAMAAABICMO5AAAAAXNSR0IB2cksfwAAABJQTFRF////////////////////////uuV0AgAAAAZ0Uk5Tirq97QBnFg4B1QAAABxJREFUeJxjYBQEAgEGZRBlxKDkAgRKDKEgKhQAJmYD/Wl+gmoAAAAASUVORK5CYII="/>
+		<image  width="10" height="7" id="img7" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAHBAMAAADDgsFQAAAAAXNSR0IB2cksfwAAABVQTFRF////////////////////////////Z0iB0QAAAAd0Uk5Tirq97QARZ44e7VwAAAAgSURBVHicY2AUFBQUYFAGkkYMSi4uLkpQMhRMusDJNABxSQbYvLvA/QAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="шапка">
+		<g id="Group">
+			<use id="63" href="#img1" x="9" y="9" />
+			<use id="64" href="#img2" x="0" y="6" />
+			<use id="65" href="#img3" x="10" y="24" />
+			<use id="66" href="#img4" x="21" y="24" />
+			<use id="67" href="#img5" x="13" y="0" />
+			<use id="68" href="#img6" x="11" y="5" />
+			<use id="69" href="#img7" x="17" y="2" />
+		</g>
+	</g>
+</svg>
