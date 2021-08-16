@@ -46,26 +46,23 @@ $request = new Request();
 <div class="certificate">
     <img src="/img/close.svg" alt="close" class="close_modal">
     <h2 class="title">
-        Наши сертификаты и лицензии
+        Наши сертификаты
     </h2>
     <p class="text">
         Аккредитация, сертификация, профессионализм
     </p>
     <div class="certificate_slider">
-        <a href="/img/certificate-1.png" class="certificate_item">
-            <img src="/img/certificate-1.png" alt="certificate">
+        <a href="/img/certificate/396446_1.jpg" class="certificate_item">
+            <img src="/img/certificate/396446_1.jpg" alt="certificate">
         </a>
-        <a href="/img/certificate-2.png" class="certificate_item">
-            <img src="/img/certificate-2.png" alt="certificate">
+        <a href="/img/certificate/396446_2.jpg" class="certificate_item">
+            <img src="/img/certificate/396446_2.jpg" alt="certificate">
         </a>
-        <a href="/img/certificate-3.png" class="certificate_item">
-            <img src="/img/certificate-3.png" alt="certificate">
+        <a href="/img/certificate/dek_profil.jpg" class="certificate_item">
+            <img src="/img/certificate/dek_profil.jpg" alt="certificate">
         </a>
-        <a href="/img/certificate-4.png" class="certificate_item">
-            <img src="/img/certificate-4.png" alt="certificate">
-        </a>
-        <a href="/img/certificate-5.png" class="certificate_item">
-            <img src="/img/certificate-5.png" alt="certificate">
+        <a href="/img/certificate/dek_sootv.jpg" class="certificate_item">
+            <img src="/img/certificate/dek_sootv.jpg" alt="certificate">
         </a>
     </div>
 </div>

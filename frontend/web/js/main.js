@@ -21,7 +21,7 @@ $(document).ready(function () {
     });
 
 
-    $(".show_certificate").on("click", function (event) {
+    $(".certificate_link").on("click", function (event) {
         event.preventDefault();
         $(".certificate, .shadow").addClass("active");
     });
