@@ -52,7 +52,7 @@ echo Html::beginTag("div", ["class" => "container"]);
 if ( !is_null($model) ) {
 	echo Html::beginTag("div", ["class" => "row"]);
 	foreach ($orders["orders"] as $order) {
-	    if ( $order["status"] !== 7 ) {
+//	    if ( $order["status"] !== 7 ) {
 		    echo "<a href='".\yii\helpers\Url::to(["/dealers/default/view", "code" => $order["code"]])."' class='item'>";
 		    echo Html::beginTag("table", ["border" => 0, "cellspacing" => 0]);
 		    echo Html::beginTag("tr");
@@ -77,7 +77,7 @@ if ( !is_null($model) ) {
 
 		    echo Html::endTag("table");
 		    echo "</a>";
-        }
+//        }
     }
 	echo Html::endTag("div");
 } else {
