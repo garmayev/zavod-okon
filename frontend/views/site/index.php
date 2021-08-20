@@ -38,8 +38,7 @@ $this->registerCssFile("/css/css/font-awesome.css");
             </a>
             <div class="about_item" data-aos="fade-right">
                 <h2 class="title">
-                    Завод окон предлагает - лучшее решение
-                    на рынке пластиковых окон
+                    20 лет изготавливаем качественные окна в Республике Бурятия
                 </h2>
                 <p class="about_text">
                     Основные преимущества работы с компанией «Завод окон»:
@@ -50,8 +49,8 @@ $this->registerCssFile("/css/css/font-awesome.css");
                             <img src="/img/about-1.svg" alt="icon">
                         </div>
                         <p class="about_content_text">
-                            Клиенту предоставляется <span>возможность выбрать пластиковые окна,</span> в зависимости от
-                            личных предпочтений и финансовых возможностей: от элитных до эконом класса.
+                            Окна, выполненные нашим заводом – производителем отвечают всем строгим требованиям
+                            государственного отраслевого стандарта.
                         </p>
                     </div>
                     <div class="about_content">
@@ -59,8 +58,8 @@ $this->registerCssFile("/css/css/font-awesome.css");
                             <img src="/img/about-2.svg" alt="icon">
                         </div>
                         <p class="about_content_text">
-                            <span>Индивидуальный подход</span> с учетом запросов каждого клиента поможет подобрать все
-                            параметры изделия и различные дополнительные аксессуары.
+                            Каждый пластиковый профиль в наших окнах проходит процедуру армирования металлическим
+                            профилем, за счет чего обеспечивается надежность целой конструкции.
                         </p>
                     </div>
                     <div class="about_content">
@@ -68,8 +67,8 @@ $this->registerCssFile("/css/css/font-awesome.css");
                             <img src="/img/about-3.svg" alt="icon">
                         </div>
                         <p class="about_content_text">
-                            <span>Действующая система скидок,</span> не только значительно снижает итоговую стоимость
-                            окна, но и мотивирует дальнейшее взаимовыгодное сотрудничество.
+                            Стеклопакеты для наших окон изготавливаются с учетом всех требований и качественных
+                            материалов, благодаря чему отлично сохраняют тепло и шумоизоляционные свойства.
                         </p>
                     </div>
                     <div class="about_content">
@@ -77,8 +76,8 @@ $this->registerCssFile("/css/css/font-awesome.css");
                             <img src="/img/about-4.svg" alt="icon">
                         </div>
                         <p class="about_content_text">
-                            По желанию клиента возможен заказ оконной конструкции любой конфигурации, с учетом
-                            конструктивных особенностей и специфичности дизайна помещения.
+                            Для повышения энергоэффективных свойств наших пластиковых окон вы можете заказать
+                            стеклопакеты с наполнением аргоновым газом.
                         </p>
                     </div>
                     <div class="about_content">
@@ -86,7 +85,8 @@ $this->registerCssFile("/css/css/font-awesome.css");
                             <img src="/img/about-5.svg" alt="icon">
                         </div>
                         <p class="about_content_text">
-                            Возможность приобретения окна на выгодных условиях и <span>в рассрочку.</span>
+                            Также мы производим установку многофункциональных стекол, которые отражают тепловую энергию
+                            внутри помещения зимой и сохраняют комфортный прохладный воздух летом.
                         </p>
                     </div>
                 </div>
@@ -96,7 +96,7 @@ $this->registerCssFile("/css/css/font-awesome.css");
                 <h2 class="title">
                     Энерго-
                     <br>эффективное
-                    <br>стекло
+                    <br>окно
                 </h2>
                 <a href="/news/view?id=1" class="btn"><i class="fa fa-play" aria-hidden="true"></i>&nbsp;&nbsp;УЗНАТЬ БОЛЬШЕ</a>
             </div>
@@ -275,84 +275,84 @@ $this->registerCssFile("/css/css/font-awesome.css");
             <div class="advantages_item" data-aos="fade-down">
                 <div class="advantages_top">
                     <p class="advantages_title">
-                        Заказ в деталях
+                        1. Оперативный выезд замерщика
                     </p>
                     <div class="advantages_img">
                         <img src="/img/advantages-1.svg" alt="advantages">
                     </div>
                 </div>
                 <p class="advantages_text">
-                    Ваше окно проходит несколько этапов перед тем, как попасть на свое постоянное «место работы». И на
-                    каждом этапе наши сотрудники проявляют ответственность.
+                    Наши специалисты по замеру в короткие сроки снимут грамотные замеры и произведут расчет
                 </p>
             </div>
             <div class="advantages_item" data-aos="fade-down">
                 <div class="advantages_top">
                     <p class="advantages_title">
-                        Сроки производства
+                        2. Помощь с выбором
                     </p>
                     <div class="advantages_img">
                         <img src="/img/advantages-2.svg" alt="advantages">
                     </div>
                 </div>
                 <p class="advantages_text">
-                    Специалисты компании "Завод окон" могут привезти двери и окна, а затем осуществить монтаж и
-                    отделочные работы в удобные для вас день и время.
+                    Специалисты нашей компании проконсультируют Вас по всем необходимым вопросом с выбором материалов
+                    для изготовления, фурнитуры и комплектующих. А также расскажут о правильном уходе за изделиями
                 </p>
             </div>
             <div class="advantages_item" data-aos="fade-down">
                 <div class="advantages_top">
                     <p class="advantages_title">
-                        Гарантия
+                        3. Быстрое изготовление
                     </p>
                     <div class="advantages_img">
                         <img src="/img/advantages-3.svg" alt="advantages">
                     </div>
                 </div>
                 <p class="advantages_text">
-                    Гарантия качества от компании «Завод окон» распространяется на все товары и перечень услуг.
+                    Благодаря собственному производству мы реализуем ваш заказ в короткие сроки, с учетом всех ГОСТов и
+                    стандартов качества.
                 </p>
             </div>
             <div class="advantages_item" data-aos="fade-down">
                 <div class="advantages_top">
                     <p class="advantages_title">
-                        Способы оплаты
+                        4. Профессиональный монтаж
                     </p>
                     <div class="advantages_img">
                         <img src="/img/advantages-4.svg" alt="advantages">
                     </div>
                 </div>
                 <p class="advantages_text">
-                    Для вашего удобства компания «Завод окон» предусмотрела несколько способов оплаты. Выберите наиболее
-                    приемлемый для вас!
+                    Монтаж, как и изготовление необходимо доверять профессионалам, поэтому только наши специалисты
+                    установят ваши будущие окна аккуратно и правильно.
                 </p>
             </div>
             <div class="advantages_item" data-aos="fade-down">
                 <div class="advantages_top">
                     <p class="advantages_title">
-                        Заказать услуги
+                        5. Удобная оплата
                     </p>
                     <div class="advantages_img">
                         <img src="/img/advantages-5.svg" alt="advantages">
                     </div>
                 </div>
                 <p class="advantages_text">
-                    Чтобы заказать услуги специалистов «Завод окон», заполните форму обратной связи. После обработки
-                    полученной заявки мы свяжемся с вами.
+                    Для вашего удобства наша компания предусмотрена несколько способов оплаты. Выберете наиболее
+                    приемлемый для вас.
                 </p>
             </div>
             <div class="advantages_item" data-aos="fade-down">
                 <div class="advantages_top">
                     <p class="advantages_title">
-                        Сертификаты
+                        6. Гарантия и сервисное обслуживание
                     </p>
                     <div class="advantages_img">
                         <img src="/img/advantages-6.svg" alt="advantages">
                     </div>
                 </div>
                 <p class="advantages_text">
-                    На основании сертификатов компания "Завод окон" ведет свою деятельность и может гарантировать
-                    надежность поставляемой продукции.
+                    На продукцию, которая была изготовлена и установлена нашим заводом окон, распространяется
+                    обязательная гарантия и бесплатное сервисное обслуживание в течении 3х лет.
                 </p>
                 <a href="#" class="certificate_link">
                     Смотреть наши сертификаты
